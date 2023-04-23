@@ -2,7 +2,7 @@ public class User {
    public static void main(String args[]) {
       Vehicle car1;
       Vehicle car2;
-      car1= new Vehicle();
+      car1= new Ve();
       car2 =new Vehicle();
       car1.setPower(128);
       car2.setPower(76);
