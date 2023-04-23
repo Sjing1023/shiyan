@@ -22,5 +22,6 @@ public class User {
       car2.speedDown(20);
       System.out.println("car1="+car1.getSpeed());
       System.out.println("car2="+car2.getSpeed());
+      System.out.println("你好");
    }
 }
